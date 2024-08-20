@@ -1,0 +1,2 @@
+### **6. Énergie et Autonomie Domestique**
+- **Installation de Systèmes d’Énergie Renouvelable :** Utilisation de panneaux solaires domestiques ou de petits systèmes éoliens pour l'autonomie énergétique, souvent présents dans des projets d'autosuffisance ou écovillages à travers le monde.

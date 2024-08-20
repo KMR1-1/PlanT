@@ -1,0 +1,3 @@
+### **4. Artisanat Cuir et Fibre**
+- **Travail du Cuir Léger :** Fabrication d'objets en cuir, tels que des sacs, des ceintures, et des chaussures simples. Traditionnelle dans des régions d'Europe, d'Amérique Latine et d'Afrique du Nord.
+- **Vannerie Fine :** Tressage de petits paniers et objets à partir d’osier, de paille ou de roseaux, courant en Afrique, en Asie du Sud-Est et dans les Amériques.

@@ -1,0 +1,3 @@
+### **2. Transformation Laitière**
+- **Fromagerie Domestique :** Transformation du lait en fromage, yaourt, beurre ou kéfir à petite échelle. Ces pratiques sont courantes dans de nombreuses régions du monde, notamment en Europe, en Inde et au Moyen-Orient.
+- **Beurrerie :** La fabrication du beurre à partir de crème est une pratique traditionnelle dans de nombreuses cultures rurales, comme en Inde ou en Europe du Nord.

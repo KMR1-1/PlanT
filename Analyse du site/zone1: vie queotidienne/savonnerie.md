@@ -1,0 +1,1 @@
+- **Savonnerie Artisanale :** Fabrication de savons maison à partir d'huiles végétales ou animales. Pratique présente en Méditerranée, en Afrique et en Europe du Nord.
