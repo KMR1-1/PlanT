@@ -6,7 +6,8 @@
 
 2. **Potentiel Agricole**
    - **Régions à forte tradition agricole** : Bretagne, Pays de la Loire, Nouvelle-Aquitaine.
-   - **Régions en développement pour l’agroécologie** : Occitanie, Provence-Alpes-Côte d'Azur.
+   - **Régions en développement pour l’agroécologie** : 
+     - Occitanie, Provence-Alpes-Côte d'Azur.
 
 3. **Aspect Légal et Fiscal**
    - **Zones rurales** : règles d’urbanisme plus souples, possibilités d’obtention d’aides pour le développement rural.
@@ -58,3 +59,10 @@
 - **Associations locales en agroécologie** : pour du soutien dans le choix du terrain et des conseils (Terre de Liens, Les Colibris).
 - **Portails régionaux** : sites gouvernementaux ou régionaux fournissant des informations sur les subventions, aides pour jeunes agriculteurs, et projets agroécologiques (Ademe, Agence Bio).
 
+
+- Le site cadastre.gouv permet
+  - rechercher une parcelle par adresse
+  - visualiser le plan cadastral
+- contacter les mairies ou la direction des finances publiques permettent un extrait de matrice cadastral
+  - infos sur le proprio et la valeur du bien, et la constructibilité
+- 
